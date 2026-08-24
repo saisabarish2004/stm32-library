@@ -4,7 +4,7 @@
 
 **Reusable STM32 drivers, BSP modules, display libraries, and peripheral interfaces**
 
-<img src="assets/banner.jpg" width="100%" alt="STM32 Library"/>
+
 
 [📁 View Complete Library on Google Drive](https://drive.google.com/drive/folders/1TGUgCtuM7zuP9B2Q1TXZI9r4Hi6G3Usz?usp=sharing)
 
