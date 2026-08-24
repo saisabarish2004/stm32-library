@@ -64,17 +64,4 @@ STM32-Library/
 * Board-level drivers
 * Peripheral abstraction
 
-## 📸 Hardware & Testing
 
-<p align="center">
-  <img src="assets/setup.jpg" width="45%" alt="STM32 hardware setup"/>
-  <img src="assets/testing.jpg" width="45%" alt="Driver testing"/>
-</p>
-
----
-
-<div align="center">
-
-📁 **[Browse the Complete Library on Google Drive](YOUR_GOOGLE_DRIVE_LINK)**
-
-</div>
